@@ -6,6 +6,5 @@ public class VehicleMaker {
 
         System.out.println(basicVehicle.getDescription());
         System.out.println(basicVehicle.getPrice());
-
     }
 }
